@@ -297,10 +297,11 @@ int min_wizlist_lev = LVL_GOD;
 int display_closed_doors = YES;
 
 /* Automap and map options */
-/* Default is to have automap and map command only enabled for immortals */
-int map_option = MAP_IMM_ONLY;
+/* Default is to have automap and map command only enabled for EVERYONE */
+/* Map option was MAP_IMM_ONLY by default ( I FOUND THIS TO BE RUDE ) Also increased map size from 2 to 6 */
+int map_option = TRUE; // or FALSE to Disable
 int default_map_size = 6;
-int default_minimap_size = 2;
+int default_minimap_size = 6;
 
 /* Medit Stats menu - show 'advanced' options? */
 int medit_advanced_stats = YES;
