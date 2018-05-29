@@ -32,4 +32,4 @@ sh ./autorun
 ```
 
 ## Plan to compile on more OS soon! - codelyfe@gmail.com - For more Q&A
-### Test Now! (at) http://codelyfe.ddns.net/wm_client/  or  telnet codelyfe.ddns.net 4000
+### Visit My Page at CODELYFE.NET for more projects coming soon!
